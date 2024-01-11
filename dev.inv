@@ -1,2 +1,2 @@
-[client]
+[dev]
 192.168.10.8 ansible_user=client
