@@ -1,2 +1,2 @@
 [client]
-192.168.10.8 ansible_user=husni
+10.0.5.6 ansible_user=osboxes
